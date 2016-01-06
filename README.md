@@ -9,7 +9,6 @@ Python <br/>
 
 ## 认证
 ![](images/run.png)
-
 <br/>
 sudo ./[yah3c.py](/yah3c.py)<br/>帐号为自己的学号<br/>
 程序运行时必须要有root权限：
