@@ -35,4 +35,4 @@ sudo yah3c
 
 ## Lincense
 
-    yah3c-for-cuit的代码使用MIT License发布，此外，禁止使用yah3c-for-cuit以及yah3c-for-cuit的修改程序用于商业目的（比如交叉编译到路由进行销售等行为）
+yah3c-for-cuit的代码使用MIT License发布，此外，禁止使用yah3c-for-cuit以及yah3c-for-cuit的修改程序用于商业目的（比如交叉编译到路由进行销售等行为）
