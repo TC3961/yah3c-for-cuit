@@ -1,5 +1,0 @@
-#!/usr/bin/python2.7
-
-if __name__== '__main__':
-	import yah3c.yah3c
-	yah3c.yah3c.main()
