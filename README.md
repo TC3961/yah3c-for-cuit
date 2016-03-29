@@ -1,16 +1,13 @@
 # Yah3c-for-CUIT
-===
 
 用与校园网认证客户端(成都信息工程大学航空港校区)
 
 ## 依赖
-----------
 
 * Python2.7
 * 主流Linux发行版,未测试OpenWrt/DD-WRT
 
 ## 安装
------------
 
 从github上clone过来,后进行安装
 
@@ -21,9 +18,7 @@ cd yah3c-for-cuit
 sudo python setup.py install
 ```
 
-
 ## 认证
-------------
 
 ![](images/run.png)
 
@@ -35,5 +30,4 @@ sudo python setup.py install
 
 
 ##Lincense
--------------
 yah3c-for-cuit的代码使用MIT License发布，此外，禁止使用yah3c-for-cuit以及yah3c-for-cuit的修改程序用于商业目的（比如交叉编译到路由进行销售等行为）
