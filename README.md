@@ -32,6 +32,12 @@ sudo yah3c
 
  ![](images/success.png)
 
+### 常见连接失败解决
+
+* MAC绑定是否正确
+* 是否缴费
+* 密码是否正确(可以在`/etc/yah3c.conf`查看密码)
+
 
 ## Lincense
 
